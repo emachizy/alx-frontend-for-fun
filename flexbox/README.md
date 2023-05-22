@@ -69,4 +69,4 @@ Read or watch:
 
 ## Author
 
-- **Nwankwo Emmanuel** - [Mahiuha](https://github.com/emachizy)
+- **Nwankwo Emmanuel** - [emachizy](https://github.com/emachizy)
